@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @edagener0
-- 👀 I’m interested in Python, C, Assembly and computers in general!
+<div class="about-me">
+    <h1>About me</h1>
+    <p>Hi I'm edagener0<p>
+</div>
 
-<!---
-edagener0/edagener0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div class="Tools">
+    <h1>Languages</h1>
+    <div class="Tools_links" align=left>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Logo" width=5%>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C Logo" width=5%/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" alt="Processing Logo" width=5% />
+    </div>
+</div>
