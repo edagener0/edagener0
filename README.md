@@ -9,6 +9,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Logo" width=5%>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C Logo" width=5%/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" alt="Processing Logo" width=5% />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="Java Logo" width=5%>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java Logo" width=5%/>
     </div>
 </div>
