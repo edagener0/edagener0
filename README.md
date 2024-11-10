@@ -1,14 +1,7 @@
-<div class="about-me">
-    <h1>About me</h1>
-    <p>Hi I'm edagener0<p>
-</div>
+# Languages and Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<div class="Tools">
-    <h1>Languages</h1>
-    <div class="Tools_links" align=left>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Logo" width=5%>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C Logo" width=5%/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" alt="Processing Logo" width=5% />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java Logo" width=5%/>
-    </div>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edagener0&layout=pie)](https://github.com/edagener0/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edagener0&show_icons=true&theme=radical)
